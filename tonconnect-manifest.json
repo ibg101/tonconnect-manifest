@@ -1,0 +1,7 @@
+{
+  "url": "https://t.me/YourBotUsername",
+  "name": "Your Telegram Bot Name",
+  "iconUrl": "https://raw.githubusercontent.com/ibg101/tonconnect-manifest/main/icon.png",
+  "termsOfUseUrl": "https://raw.githubusercontent.com/ibg101/tonconnect-manifest/main/terms.md",
+  "privacyPolicyUrl": "https://raw.githubusercontent.com/ibg101/tonconnect-manifest/main/privacy.md"
+}
